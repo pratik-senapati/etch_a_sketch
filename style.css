@@ -1,0 +1,29 @@
+#container
+{
+    
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    outline:0.1px solid black;
+
+}
+
+
+#main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.c
+{
+   
+    margin:0;
+    padding:0;
+    border:none;
+    
+    
+}
