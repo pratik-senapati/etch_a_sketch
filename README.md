@@ -1,2 +1,3 @@
 # etch_a_sketch
- A project using etch_a_sketch
+ A sketchpad like project
+ Wesbite:https://crimsontypo.github.io/etch_a_sketch/
